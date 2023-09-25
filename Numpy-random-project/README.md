@@ -1,17 +1,13 @@
-# **NumPy Random Package**
-### Author: Sarah McNelis - G00398343
-***
+# NumPy Random Package
+### By Sarah McNelis
+
 <br>
 
 This is an investigation into the [numpy random package](https://numpy.org/doc/stable/reference/random/index.html) using a jupyter notebook. 
 
 <br>
 
-***
-
-<br>
-
-## **How to run a [jupyter notebook](https://jupyter.org/):**
+## How to run a [jupyter notebook](https://jupyter.org/):
 
 1. Download [Anaconda]().
 2. Download [cmder]() if on windows.
@@ -19,11 +15,7 @@ This is an investigation into the [numpy random package](https://numpy.org/doc/s
 
 <br>
 
-***
-
-<br>
-
-## **Quick steps**
+## Quick steps
 
 ### NB viewer
 
@@ -44,11 +36,7 @@ You can view this notebook on mybinder by clicking on the following badge:
 
 <br>
 
-***
-
-<br>
-
-## **Overview of this notebook**
+## Overview of this notebook
 
 This notebook explains the following aspects of the numpy random package:
 
@@ -118,20 +106,12 @@ When generating random numbers there is always a start point. This inital value 
 
 <br>
 
-***
-
-<br>
-
-## **Conclusion**
+## Conclusion
 This readme contains a quick overview of what this juputer notebook does. It explains the use and purpose of the numpy random package, it describes simple random data, permutation functions and distribution functions and it outlines the seed funciton and its importance in generating pseudorandom numbers. The numpy random package has many functions which are hugely beneficial for data analysts to gather, investigate and interpret data in order to provide detailed analysis as a result. 
 
 <br>
 
-***
-
-<br>
-
-## **References:**
+## References
 
 All references and code used in this notebook have been sourced in Oct/Nov 2021 from the following webpages:
 
@@ -192,4 +172,4 @@ All references and code used in this notebook have been sourced in Oct/Nov 2021 
 
 <br>
 
-***
+## End

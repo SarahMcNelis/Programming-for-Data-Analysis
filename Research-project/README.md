@@ -1,10 +1,10 @@
 ![eu_covid_pic](https://www.schengenvisainfo.com/news/wp-content/uploads/2021/05/europe-corona-covid.jpg)
 
-# **An Investigation into the Coronavirus in the European Union**
+# An Investigation into the Coronavirus in the European Union
 
 <br>
 
-## **Overview**
+## Overview
 
 ### Part 1
 This is an investigation into the following variables within EU memeber states:
@@ -19,11 +19,7 @@ Re-creation of data using the pandas module. I do this by using numpy to generat
 
 <br>
 
-***
-
-<br>
-
-## **Quick steps**
+## Quick steps
 
 ### Install the following:
 1. python
@@ -42,11 +38,7 @@ Re-creation of data using the pandas module. I do this by using numpy to generat
 
 <br>
 
-***
-
-<br>
-
-## **Explore**
+## Explore
 - During my research I discovered an interesting timeline dashboard on the ECDC's website found [here](https://www.ecdc.europa.eu/en/covid-19/timeline-ecdc-response). I found this to be quite informative as it gives an overview of the developments of covid-19 within the EU and the ECDC's reponse to this pandemic. 
 
 
@@ -57,11 +49,7 @@ Re-creation of data using the pandas module. I do this by using numpy to generat
 
 <br>
 
-***
-
-<br>
-
-## **Credits**
+## Credits
 My research for this investigation is heavily based on data collected from the following two websites:
 
 - https://www.ecdc.europa.eu/en/covid-19/timeline-ecdc-response
@@ -70,11 +58,7 @@ My research for this investigation is heavily based on data collected from the f
 
 <br>
 
-***
-
-<br>
-
-## **Badges**
+## Badges
 
 ### NB viewer
 You can view this notebook on nbviewer by clicking on the following badge:
@@ -89,34 +73,14 @@ You can view this repository on mybinder by clicking on the following badge:
 
 <br>
 
-***
-
-<br>
-
-## **How to contribute to this project**
-If you have any queries or would like to contribute to this project please contact me via email:
-
-G00398343@gmit.ie 
-
-<br>
-
-***
-
-<br>
-
-## **Conclusion**
+## Conclusion
 This project gave me an insight into how the EU approached the coronavirus pandemic and how the variables affected each of the EU member states. Next year, I would like to compare the current results from December 2021 with the results in December 2022. This would indicate if my findings in this notebook regarding the links between the variables were in fact accurate. 
 
 <br>
 
-***
-
-<br>
-
-## **References**
+## References
 All references and code used in this notebook have been sourced in Nov/Dec 2021 and cited at the end of the notebook.
 
 <br>
 
-***
-# **End**
+## End
